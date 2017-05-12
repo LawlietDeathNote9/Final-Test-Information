@@ -1,0 +1,113 @@
+ p {
+                font-family:"Give You Glory", cursive;
+                font-size:30px;
+            }
+            h1 {
+                font-family:"Love Ya Like A Sister", cursive;
+                font-size:35px;
+                font-style: italic, bold;
+            }
+            
+            h2 {
+                font-family: "Indie Flower", cursive;
+                font-size:32px;
+                letter-spacing: 8px;
+            }
+            
+            h3 {
+                font-family: "Gloria Hallelujah", cursive;
+                font-size:20px;
+            }
+            
+            footer {
+                font-family:"Nothing You Could Do", cursive;
+                font-size:50px;
+            }
+            body {
+                background: -webkit-linear-gradient(45deg, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */ /* Chrome10-25,Safari5.1-6 */
+            }
+            
+            img .my {
+                border: 2px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 800px;
+overflow: hidden;
+height: 225px;
+    width:225px;
+            }
+            iframe {
+                width:854px;
+                height:480px;
+                
+            }
+            th {
+    background-color: beige;
+    }
+    th.miro { 
+font-family: "League Script";
+font-size: 45px;
+background-color: bisque;
+border-top: 2px solid black;
+border-left: 2px solid black;
+
+    border-bottom: 2px solid;}
+th.mir, th.mila {
+    font-family: "Satisfy";
+    font-size:30px;
+    column-span: none;
+    border-bottom:2px solid black;
+    border-left:2px solid black;
+    border-top:2px solid black;
+    
+
+}
+th.mila {
+    border-right:2px solid black;
+}
+th {
+    background-color: beige; 
+} 
+    /*td*/
+
+            td.i {
+                border-bottom:2px solid black;
+                border-left:2px solid black;
+                border-right:2px solid black;
+            }            
+td.kil {
+ font-size:25px;
+}
+td {
+    font-family:"Cookie";
+    font-size: 2.5em; 
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom:2px solid black;}
+ 
+            /*images*/
+            .my img {
+border: 2px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 800px;
+overflow: hidden;
+height: 225px;
+    width:225px;
+}  
+    .myo img {
+        border: 2px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 800px;
+overflow: hidden;
+    }
+    .mayo img {
+        border: 2px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 800px;
+overflow: hidden;
+    height:500px;
+    width:500px;
+    }
